@@ -2,6 +2,17 @@
 
 Este diretorio contém a lista de exercícios de introdução à programação em Java. Cada exercício está organizado em uma subpasta com um arquivo Java correspondente.
 
+## Estrutura das Subpastas
+
+Cada Subpasta contem uma classe encapsulando a logica do programa e uma classe Teste que contem o controle de recebimento de dados do usuario e a exibição dos resultados.
+
+*Exemplo:*
+
+- `src/questao02/`
+  - `MaiorEntreDoisValores.java`
+  - `TesteMaiorEntreDoisValores.java`
+
+
 ## Estrutura do Projeto
 
 - `src/questao01/`: Contém o código para o exercício 1.
