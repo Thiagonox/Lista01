@@ -1,6 +1,6 @@
 # Lista de Exercícios 02 – Introdução Java
 
-Esta pasta contém a lista de exercícios de introdução à programação em Java. Cada exercício está organizado em uma subpasta com um arquivo Java correspondente.
+Este diretorio contém a lista de exercícios de introdução à programação em Java. Cada exercício está organizado em uma subpasta com um arquivo Java correspondente.
 
 ## Estrutura do Projeto
 
