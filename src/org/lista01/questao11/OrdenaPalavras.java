@@ -9,7 +9,6 @@ public class OrdenaPalavras {
             compare = new String[] { palavra2, palavra1 };
         }
 
-        // Determinar qual palavra tem o maior número de caracteres
         String resultadoMaior;
         if (palavra1.length() > palavra2.length()) {
             resultadoMaior = palavra1;
